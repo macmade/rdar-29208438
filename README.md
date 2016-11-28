@@ -1,7 +1,7 @@
 rdar://29208438
 ===============
 
-![Status](https://img.shields.io/badge/status-open-orange.svg?style=flat)
+![Status](https://img.shields.io/badge/status-duplicate-lightgray.svg?style=flat)
 [![Radar](https://img.shields.io/badge/rdar-29208438-blue.svg?style=flat)]
 (http://openradar.appspot.com/radar?id=4976964230184960)
 [![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
@@ -9,10 +9,20 @@ rdar://29208438
 Xcode - Breakpoints don't work with incremental LTO
 ---------------------------------------------------
 
- - State: Open
+ - State: Duplicate (closed)
  - Product: Developer Tools
  - Rank: No Value
  - Date: 11-Nov-2016 00:13 AM
+
+### Status
+
+**Duplicate of 28529594 (closed)**
+
+> Engineering has determined that your bug report is a duplicate of another issue and will be closed. 
+> 
+> The open or closed status of the original bug report your issue was duplicated to appears in the yellow "Duplicate of XXXXXXXX" section of the bug reporter user interface. This section appears near the top of the right column's bug detail view just under the bug number, title, state, product and rank.
+> 
+> If you have any questions or concerns, please update your report directly here: http://bugreport.apple.com/.
 
 ### Summary
 
