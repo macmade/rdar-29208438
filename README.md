@@ -4,7 +4,10 @@ rdar://29208438
 ![Status](https://img.shields.io/badge/status-duplicate-lightgray.svg?style=flat)
 [![Radar](https://img.shields.io/badge/rdar-29208438-blue.svg?style=flat)]
 (http://openradar.appspot.com/radar?id=4976964230184960)
-[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)  
+[![Donate-Patreon](https://img.shields.io/badge/donate-patreon-yellow.svg?style=flat)](https://patreon.com/macmade)
+[![Donate-Gratipay](https://img.shields.io/badge/donate-gratipay-yellow.svg?style=flat)](https://www.gratipay.com/macmade)
+[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/xslabs)
 
 Xcode - Breakpoints don't work with incremental LTO
 ---------------------------------------------------
